@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://moidnl.github.io/Wsh/sitemap.Wsh.gz
